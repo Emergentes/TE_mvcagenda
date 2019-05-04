@@ -11,7 +11,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Listado de tareas</h1>
+        <h1>Listado completo de tareas</h1>
         <a href="Main?op=nuevo">Nueva nota</a>
         <table border="1">
             <thead>
